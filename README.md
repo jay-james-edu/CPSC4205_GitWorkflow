@@ -48,6 +48,7 @@ Simply run the program in your terminal to see the formatted student information
 ==========================================
        STUDENT INFORMATION CARD
 ===========================================
+=================================================
 
 Student's Personal Details:
 Name: Jane Smith
