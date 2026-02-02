@@ -46,19 +46,27 @@ Simply run the program in your terminal to see the formatted student information
 ### Sample Output:
 
 ==========================================
-       STUDENT INFORMATION CARD
+       
+**STUDENT INFORMATION CARD**
+
+==========================================
 
 
+**Student's Personal Details:**
 
-
-Student's Personal Details:
 Name: Jane Smith
+
 Email: jsmith@example.edu
+
 Hometown: Columbus, Georgia
+
 Hobbies: Database Design
 
-Student's Education Details:
+
+**Student's Education Details:**
+
 Major: Information Technology
+
 Graduation Year: 2025
 
 =================================================
