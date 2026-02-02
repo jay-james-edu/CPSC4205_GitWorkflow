@@ -1,3 +1,4 @@
+# Student Personal and Education information
 name = "James Jay"
 major = "Information Technology"
 graduation_year = 2026
@@ -5,6 +6,11 @@ email = "jay_james@students.columbusstate.edu"
 home = "Greensboro, AL"
 hobby = "Playing Games and messing with Computers"
 
+
+
+# Student Information Card
+# This program displays a formatted profile card with student details
+# Includes name, major, graduation year, contact info, and hobbies
 print("\n==========================================")
 print("       STUDENT INFORMATION CARD")
 print("==========================================")
