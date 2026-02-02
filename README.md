@@ -1,37 +1,66 @@
 # Student Information Card
 
-[Add your 2-3 sentence description here]
+A simple program that showcases and student's personal details and education info in the formatted command window.
 
 ## Features
 
 - Display student name (original)
 - Display major and graduation year (original)
-- [Add your new features here as you complete them]
+- Display hometown and email
+- Display Hobbies
+- Formatted to add spaces and bold text
 
 ## Technologies Used
 
-- [Coding Language python or java, which did you use]
+- Python 3.8+ 
 - Git for version control
 - GitHub for repository hosting
 
 ## Installation and Setup
 
 ### Prerequisites
-[List what's needed to run your program]
+Python 3.8+ 
+Any code terminal that can run .py file
 
 ### Steps to Run
 
-1. [Add your installation steps here]
+ 1. Clone this repository:
+
+   git clone (https://github.com/jay-james-edu/CPSC4205_GitWorkflow.git)
+  
+
+2. Navigate to the project directory:
+
+   cd CPSC4205_GitWorkflow
+
+
+3. Run the program:
+
+   python student_info.py
+
 
 ## Usage
 
-[Explain how to use your program]
+Simply run the program in your terminal to see the formatted student information card.
 
 ### Sample Output:
-```
-[Add example output here]
-```
+
+==========================================
+       STUDENT INFORMATION CARD
+==========================================
+
+Student's Personal Details:
+Name: Jane Smith
+Email: jsmith@example.edu
+Hometown: Columbus, Georgia
+Hobbies: Database Design
+
+Student's Education Details:
+Major: Information Technology
+Graduation Year: 2025
+
+=================================================
 
 ## Development Process
 
-[Write 3-5 sentences about your experience implementing this project]
+It didn't take that much time to create the changes from the original. And only added what I felt was right.
