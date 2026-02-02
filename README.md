@@ -36,7 +36,7 @@ Any code terminal that can run .py file
 
 3. Run the program:
 
-    py student_info.py
+     py student_info.py
 
 
 ## Usage
