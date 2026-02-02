@@ -26,17 +26,17 @@ Any code terminal that can run .py file
 
  1. Clone this repository:
 
-   git clone (https://github.com/jay-james-edu/CPSC4205_GitWorkflow.git)
+     git clone (https://github.com/jay-james-edu/CPSC4205_GitWorkflow.git)
   
 
 2. Navigate to the project directory:
 
-   cd CPSC4205_GitWorkflow
+    cd CPSC4205_GitWorkflow
 
 
 3. Run the program:
 
-   python student_info.py
+    py student_info.py
 
 
 ## Usage
